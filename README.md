@@ -9,10 +9,10 @@ Aprender como estruturar um layout, técnicas de CSS3 com containers e variávei
 #### Screenshot do projeto no computador
 <img alt="screenshot-computador" src="/img/pc.jpeg">
 
-#### Screenshot do projeto no computador
+#### Screenshot do projeto no tablet
 <img alt="screenshot-tablet" src="/img/tablet.jpeg">
 
-#### Screenshot do projeto no computador
+#### Screenshot do projeto no celular
 <img alt="screenshot-celular" src="/img/celular.jpeg">
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
