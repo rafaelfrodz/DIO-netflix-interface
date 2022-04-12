@@ -7,13 +7,13 @@ Projeto desenvolvido durante o bootcamp Carrefour Web Developer, da Digital Inno
 Aprender como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar elementos com Flexbox e como utilizar plugins jQuery.
 
 ## Screenshot do projeto no computador
-<img alt="screenshot-computador" src="/img/pc.jpeg">
+<img alt="screenshot-computador" src="/img/pc.jpeg" width="600px">
 
 ## Screenshot do projeto no tablet
-<img alt="screenshot-tablet" src="/img/tablet.jpeg">
+<img alt="screenshot-tablet" src="/img/tablet.jpeg" width="600px" height="700px">
 
 ## Screenshot do projeto no celular
-<img alt="screenshot-celular" src="/img/celular.jpeg">
+<img alt="screenshot-celular" src="/img/celular.jpeg" width="300px" height="700px">
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 
